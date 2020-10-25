@@ -45,7 +45,7 @@ $ npm start ou yarn start
 # Aponte a camera do seu telefone para o QRCode que aparecerá na página do metro bundler, ou se preferir, abra por um simulador no seu computador.
 ```
 
-<h2 id="status">Status: Em andamento...</h2>
+<h2 id="status">Status: Completo</h2>
 
 ### 👋🏽 Entre em contato comigo:
 
